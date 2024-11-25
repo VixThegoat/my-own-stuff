@@ -27,7 +27,7 @@
   },
   "mysql": {
     "host": "localhost",
-    "user": "admin",
+    "user": "owner",
     "password": "VeryHardPasswordNiggaManMaidGayNIggaShit-08923@@",
     "db": "SatCNC"
   },
