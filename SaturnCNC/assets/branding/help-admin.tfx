@@ -1,0 +1,19 @@
+<<$clear>>
+[8;19;80t
+                        <gradient name="customcolor">╦ ╦╔═╗╦  ╔═╗  ╔╦╗╔═╗╔╗╔╦ ╦</gradient>
+                        <gradient name="customcolor">╠═╣║╣ ║  ╠═╝  ║║║║╣ ║║║║ ║</gradient>
+                        <gradient name="customcolor">╩ ╩╚═╝╩═╝╩    ╩ ╩╚═╝╝╚╝╚═╝</gradient>
+              
+                 <gradient name="customcolor"> ╦═════════════════════════════════════╦</gradient>
+              <gradient name="customcolor">╔═══╩═════════════════════════════════════╩═══╗</gradient>
+              <gradient name="customcolor">║                                             ║</gradient>
+              <gradient name="customcolor">║   • plan: shows info about plan             ║</gradient>
+              <gradient name="customcolor">║   • passwd: changes password for you        ║</gradient>
+              <gradient name="customcolor">║   • ongoing: shows ongoing attacks          ║</gradient>
+              <gradient name="customcolor">║   • clear: clears terminal                  ║</gradient>
+              <gradient name="customcolor">║   • cfx: cfx resolver                       ║</gradient>
+              <gradient name="customcolor">║   • lookup: ip/url resolver                 ║</gradient>
+              <gradient name="customcolor">║   • paping: tcp ping                        ║</gradient>
+              <gradient name="customcolor">║   • ping: icmp ping                         ║</gradient>
+              <gradient name="customcolor">╚═════════════════════════════════════════════╝</gradient>
+
